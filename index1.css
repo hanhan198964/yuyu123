@@ -1,0 +1,20 @@
+#h1 {
+    text-align: center;
+    color: black
+}
+
+#p1 {
+    font-size: larger;
+    border-style: outset;
+    border-radius: 20px;
+    border-color: black gray;
+    display: inline-block;
+    padding: 5px;
+    margin: 20px;
+}
+
+body {
+    background-image: url(WechatIMG276.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
