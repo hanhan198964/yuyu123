@@ -1,42 +1,57 @@
 #h1 {
     text-align: center;
     color: white;
-    font-size:xx-large;
+    font-size: xx-large;
     font-family: 'Abril Fatface', cursive;
 }
-#div0 {text-align: center;}
 
-#p0 {font-size: larger;
+#div0 {
     text-align: center;
 }
 
-div {text-align: center;
+#p0 {
+    font-size: larger;
+    text-align: center;
 }
-#p1,#p2,#p3{
+
+div {
+    text-align: center;
+}
+
+#p1,
+#p2,
+#p3 {
     color: snow;
     font-size: larger;
     font-family: initial;
     border-style: outset;
     border-radius: 20px;
-    border-color:snow;
+    border-color: snow;
     border-width: 1px;
     display: inline-block;
     padding: 5px;
     margin: 20px;
-    
-    
+
+
 }
-    
-    
+
+table {
+    margin: auto;
+}
 
 
-body {
-    background-image:url(6N56S31RAuDJ7Fl3XQxz8QkdJH8Uh4bUVgGUR7Cp__1024_575.jpeg);
-    background-size: 100% 200%;
+form {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+#div2 {
+    background-image: url(6N56S31RAuDJ7Fl3XQxz8QkdJH8Uh4bUVgGUR7Cp__1024_575.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 1px;
-   
-    
-    
-    
+    padding: 40px;
+    margin: -30px;
+
 }
